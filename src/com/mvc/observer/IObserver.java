@@ -4,7 +4,7 @@
 package com.mvc.observer;
 
 /**
- * @author hyh 观察者接口
+ * 观察者接口
  */
 public interface IObserver {
 	/**

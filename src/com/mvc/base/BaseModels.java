@@ -7,10 +7,7 @@ import com.mvc.action.IModelAction;
 import com.mvc.observer.IObservable;
 import com.mvc.observer.IObserver;
 
-/**
- * @author hyh
- *
- */
+
 public abstract class BaseModels implements IObservable, IModelAction {
 	private List<IObserver> mObservers;
 	private boolean mIsChanged;

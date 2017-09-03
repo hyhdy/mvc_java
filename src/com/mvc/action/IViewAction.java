@@ -5,9 +5,6 @@ import com.mvc.observer.IObservable;
 
 /**
  * 定义视图的基本行为
- * 
- * @author hyh
- *
  */
 public interface IViewAction {
 	/**
