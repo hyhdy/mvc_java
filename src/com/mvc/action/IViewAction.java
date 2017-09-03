@@ -1,7 +1,7 @@
-package com.action.inter;
+package com.mvc.action;
 
-import com.observer.inter.IObservable;
-import com.observer.mvc.BaseModels;
+import com.mvc.base.BaseModels;
+import com.mvc.observer.IObservable;
 
 /**
  * 定义视图的基本行为

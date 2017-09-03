@@ -1,4 +1,7 @@
-﻿package com.observer.mvc;
+﻿package com.mvc.example;
+
+import com.mvc.base.BaseModels;
+import com.mvc.base.BaseViews;
 
 public class Model extends BaseModels {
 	/**
@@ -7,7 +10,6 @@ public class Model extends BaseModels {
 	private String name;// 名字
 	private String display;// 展示数据
 
-	private BaseViews view;
 
 	public String getName() {
 		return name;

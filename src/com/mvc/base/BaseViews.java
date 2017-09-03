@@ -1,8 +1,8 @@
-package com.observer.mvc;
+package com.mvc.base;
 
-import com.action.inter.IViewAction;
-import com.observer.inter.IObservable;
-import com.observer.inter.IObserver;
+import com.mvc.action.IViewAction;
+import com.mvc.observer.IObservable;
+import com.mvc.observer.IObserver;
 /**
  * 可以定义一些基本行为，通过模板方法模式进行代码复用
  * @author lenovo

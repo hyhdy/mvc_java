@@ -1,4 +1,4 @@
-﻿package com.observer.mvc;
+﻿package com.mvc.example;
 
 public class Client {
 

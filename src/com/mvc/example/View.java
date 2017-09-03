@@ -1,4 +1,7 @@
-﻿package com.observer.mvc;
+﻿package com.mvc.example;
+
+import com.mvc.base.BaseModels;
+import com.mvc.base.BaseViews;
 
 public class View extends BaseViews {
 	private Controller controller;// 控制器

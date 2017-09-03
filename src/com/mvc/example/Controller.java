@@ -1,6 +1,8 @@
-﻿package com.observer.mvc;
+﻿package com.mvc.example;
 
-import com.observer.inter.IObserver;
+import com.mvc.base.BaseModels;
+import com.mvc.base.BaseViews;
+import com.mvc.observer.IObserver;
 
 public class Controller {
 	private BaseViews view;

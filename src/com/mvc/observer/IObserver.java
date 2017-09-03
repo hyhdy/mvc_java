@@ -1,7 +1,7 @@
 ﻿/**
  * 
  */
-package com.observer.inter;
+package com.mvc.observer;
 
 /**
  * @author hyh 观察者接口

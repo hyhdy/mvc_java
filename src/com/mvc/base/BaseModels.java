@@ -1,11 +1,11 @@
-package com.observer.mvc;
+package com.mvc.base;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.action.inter.IModelAction;
-import com.observer.inter.IObservable;
-import com.observer.inter.IObserver;
+import com.mvc.action.IModelAction;
+import com.mvc.observer.IObservable;
+import com.mvc.observer.IObserver;
 
 /**
  * @author hyh
