@@ -6,7 +6,6 @@ public class Client {
 		View view = new View();
 		// 模拟点击界面
 		view.touch();
-
 	}
 
 }

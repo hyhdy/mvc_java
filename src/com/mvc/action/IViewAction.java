@@ -9,7 +9,6 @@ import com.mvc.observer.IObservable;
 public interface IViewAction {
 	/**
 	 * 刷新视图
-	 * 
 	 * @param baseModel
 	 * @param o
 	 */
