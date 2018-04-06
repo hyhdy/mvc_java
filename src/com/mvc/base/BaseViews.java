@@ -20,6 +20,7 @@ public abstract class BaseViews implements IObserver,IViewAction{
 		if(observable instanceof BaseModels) {
 			BaseModels baseModel=(BaseModels)observable;
 			if(baseModel.isChanged()) {
+			//model数据改变才刷新view
 			refreshView(baseModel,o);
 			}
 		}
